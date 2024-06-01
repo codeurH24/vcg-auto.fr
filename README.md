@@ -28,3 +28,29 @@ VCG AUTO Arnaque
 <span>
 VCG AUTO pirate 
 </span>
+
+<span>
+VCG AUTO avis 
+</span>
+
+<span>
+VCG AUTO commentaire 
+</span>
+
+<span>
+VCG AUTO fraudes 
+</span>
+
+<span>
+VCG AUTO avocat 
+</span>
+
+<span>
+VCG AUTO DLR 
+</span>
+
+<span>
+VCG Automobiles [Déville-lès-Rouen]
+</span>
+
+
